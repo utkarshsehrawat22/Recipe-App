@@ -46,7 +46,14 @@ The project follows the **Clean Architecture** pattern:
 
 ## 📸 Preview
 
-*(Add your screenshots here!)*
+### Splash Screen
+![Splash Screen](WhatsApp%20Image%202026-08-21%20at%2018.25.04.jpeg)
+
+### Home Screen
+![Home Screen](WhatsApp%20Image%202026-08-21%20at%2018.25.05%20(1).jpeg)
+
+### Recipe Details
+![Recipe Details](WhatsApp%20Image%202026-08-21%20at%2018.25.05.jpeg)
 
 ## 📄 License
 
